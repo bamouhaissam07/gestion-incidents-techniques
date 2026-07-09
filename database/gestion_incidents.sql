@@ -1,7 +1,5 @@
 -- =====================================================================
 -- BASE DE DONNEES : Gestion des interventions / incidents techniques
--- Moteur : MySQL / MariaDB (InnoDB, cle etrangere = integrite referentielle)
--- Genere a partir du diagramme de classes (StarUML) du projet
 -- =====================================================================
 
 CREATE DATABASE IF NOT EXISTS gestion_incidents
